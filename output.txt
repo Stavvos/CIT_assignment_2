@@ -1,0 +1,42 @@
+AudioBooks:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ISBN           Title                         Author         Retail Cost                     Quantity in stock
+
+9780575102484  The_way_of_kings              Sanderson      $24.24                          10                            
+9780732298241  Golden_Lion                   Smith          $27.17                          3                             
+9780141805917  The_BFG                       Dahl           $16.06                          7                             
+
+
+eBooks:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ISBN           Title                         Author         Retail Cost                    Quantity in stock
+
+9780857054036  Girl_with_the_dragon_tattoo   Larsson        $17.23                         5                             
+9780006486121  A_Feast_for_Crows             Martin         $10.79                         20                            
+9781841499895  Leviathan_Wakes               Corey          $12.95                         2                             
+
+
+Hardback:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ISBN           Title                         Author         Retail Cost                    Quantity in stock
+
+9781591025948  The_Blade_Itself              Abercrombie    $62.55                         12                            
+9780091956141  The_Martian                   Weir           $47.85                         6                             
+9780356500904  Skin_Game                     Butcher        $35.45                         1                             
+9780575104662  Calamity                      Sanderson      $53.00                         10                            
+9781452173801  Marlon_Bundo                  Twiss          $16.52                         30                            
+9780439708180  Goblet_of_Fire                Rowling        $10.14                         1                             
+
+
+Paperback:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ISBN           Title                         Author         Retail Cost                    Quantity in stock
+
+9780007444229  Fools_Quest                   Hobb           $25.34                         2                             
+9780575081406  The_Name_Of_the_Wind          Rothfuss       $23.56                         10                            
+9781406328899  Wheres_Wally                  Handford       $6.99                          0                             
+9780071808552  Java                          Schildt        $79.95                         4                             
+9780385689229  Born_a_crime                  Noah           $44.45                         13                            
+9780538798082  C++                           Malik          $53.98                         0                             
+9780061146305  The_Bad_Beginning             Snicket        $6.50                          9                             
+9780486415864  Great_Expectations            Dickens        $10.15                         2                             

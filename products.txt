@@ -1,0 +1,22 @@
+Larsson Girl_with_the_dragon_tattoo 5 e 9780857054036 15.95
+Sanderson The_way_of_kings 10 a 9780575102484 16.95
+Hobb Fools_Quest 2 s 9780007444229 19.95
+Rothfuss The_Name_Of_the_Wind 10 s 9780575081406 18.55
+Handford Wheres_Wally 0 s 9781406328899 5.50
+Schildt Java 4 s 9780071808552 62.95
+Noah Born_a_crime 13 s 9780385689229 35.00
+Martin A_Feast_for_Crows 20 e 9780006486121 9.99
+Corey Leviathan_Wakes 2 e 9781841499895 11.99
+Abercrombie The_Blade_Itself 12 h 9781591025948 43.14
+Malik C++ 0 s 9780538798082 42.50
+Smith Golden_Lion 3 a 9780732298241 19.0
+Weir The_Martian 6 h 9780091956141 33.00
+Dahl The_BFG 7 a 9780141805917 11.23
+Snicket The_Bad_Beginning 9 s 9780061146305 5.12
+Butcher Skin_Game 1 h 9780356500904 24.45
+Sanderson Calamity 10 h 9780575104662 36.55
+Twiss Marlon_Bundo 30 h 9781452173801 11.39
+Dickens Great_Expectations 2 s 9780486415864 7.99
+Rowling Goblet_of_Fire 1 h 9780439708180 6.99
+Pratchett Night_Watch 2 a 9781930446458 30.78
+
