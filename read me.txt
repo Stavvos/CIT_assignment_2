@@ -1,1 +1,8 @@
-Hey Christy! I used code blocks you'll have to create a visual studio project. 
+This is the second major C++ project i completed. 
+
+I also completed this project while studying at the Canberra Institute of Technology as it was an assessment piece. 
+
+This project is rough. For example, it doesn't follow the don't repeat yourself methodology. 
+
+This is a momento for me. 
+
